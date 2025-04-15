@@ -40,6 +40,7 @@ I'm a passionate developer with a strong interest in programming and technology.
 ## 📫 Contact Me
 
 - 📞WhatsApp: +1 (978) 756-1126
+- [Contact me on WhatsApp](https://wa.me/1 (978) 756-1126)
 - ✉️ Email: Player9ui8@example.com
 - 💼 LinkedIn: [][(https://linkedin.com/](https://www.linkedin.com/in/mahmoud-malouhi-364b5b35a/))
 
