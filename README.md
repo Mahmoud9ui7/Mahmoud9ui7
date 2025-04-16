@@ -36,12 +36,11 @@ I'm a passionate developer with a strong interest in programming and technology.
 - English(A2)
 - Turkish(A2)
 
-<
 ## 📫 Contact Me
 
 - 📞WhatsApp:   [Contact me on WhatsApp](https://wa.me/19787561126)
 - ✉️ Email:     Player9ui8@example.com
-- 💼 LinkedIn:  [][(https://linkedin.com/](https://www.linkedin.com/in/mahmoud-malouhi-364b5b35a/))
+- 💼 LinkedIn:  [][(https://linkedin.com/](https://www.linkedin.com/in/mahmoud-malouhi-364b5b35a/)
 
 # Birthday
  2005 / 20 / 5
@@ -52,3 +51,4 @@ I'm a passionate developer with a strong interest in programming and technology.
 
 
 > "لا يوجد حلم مستحيل، فقط خطة لم تُكتب بعد."
+---
